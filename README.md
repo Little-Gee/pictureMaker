@@ -1,5 +1,5 @@
 # picture
-![image](https://github.com/GiGieer/pictureMaker/blob/master/GIF.gif)
+![image](https://github.com/GreenHandLittleWhite/pictureMaker/blob/master/GIF.gif)
 
 ## Project setup
 ```
